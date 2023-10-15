@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rharbi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-rharbi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-rharbi" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="500" src="pngwing.com.png">
 
 - 🌱 I’m currently learning **JS & PHP**
 
