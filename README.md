@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-rharbi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-rharbi" /> </p>
 
 
-- 🌱 I’m currently learning **JS & PHP**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mohammed-rharbi](https://github.com/mohammed-rharbi)
-
 - 📚 Student in YOUCODE  SAFI Campus
 
 - 💡 Aspiring Web Developer
 
 - 🎯 Working towards building cool projects
+
+- 🌱 I’m currently learning **JS & PHP**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mohammed-rharbi](https://github.com/mohammed-rharbi)
 
 - 📫 How to reach me **rharbi383@gmail.com**
 
