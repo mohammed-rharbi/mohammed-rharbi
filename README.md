@@ -10,7 +10,7 @@
 
 - 🎯 Working towards building cool projects
 
-- 🌱 I’m currently learning **JS & PHP**
+- 🌱 I’m currently learning **REACT.JS & LARAVEL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammed-rharbi](https://github.com/mohammed-rharbi)
 
