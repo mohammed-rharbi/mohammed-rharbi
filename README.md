@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-rharbi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-rharbi" /> </p>
 
 
-- 📚 Student in YOUCODE  SAFI Campus
+- 📚 Student at YOUCODE SAFI Campus
 
 - 💡 Aspiring Web Developer
 
