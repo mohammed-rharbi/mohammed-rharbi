@@ -1,41 +1,101 @@
-<h1 align="center">Hi 👋, I'm Mohammed Rharbi</h1>
-<h3 align="center">🚀 Passionate Coding Enthusiast</h3>
-<img align="right" alt="Coding" width="500" src="pngwing.com.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-rharbi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-rharbi" /> </p>
+# 👋 Mohammed Rharbi
 
+<div align="center">
 
-- 📚 Student at YOUCODE SAFI Campus
+**Full Stack Developer | Node.js Specialist | Web & Mobile Builder**
 
-- 💡 Aspiring Web Developer
+*Crafting scalable solutions with modern web technologies*
 
-- 🎯 Working towards building cool projects
+[![Profile Views](https://komarev.com/ghpvc/?username=mohammed-rharbi&label=Profile%20views&color=00d4ff&style=for-the-badge)](https://github.com/mohammed-rharbi)
 
-- 🌱 I’m currently learning **Next.JS & Three.JS**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammed-rharbi](https://github.com/mohammed-rharbi)
+---
 
-- 📫 How to reach me **rharbi383@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mohammed western" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed western" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammed_rharbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed_rharbi" height="30" width="40" /></a>
-<a href="https://discord.gg/mohammedgharbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammedgharbi" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-rharbi-785549278/?originalsubdomain=ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-rharbi-785549278/?originalsubdomain=ma" height="30" width="40" /></a>
-</p>
+I'm a **full-stack developer** from Morocco with a passion for building **production-grade applications**. I specialize in **Node.js backend development** and modern **web/mobile frontends**. Currently deepening my expertise in **end-to-end testing with Playwright** and **advanced TypeScript patterns**.
 
+My focus: **Real-world projects that scale, clean code, and continuous learning**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-</p>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 💼 Tech Stack
 
+### **Backend Mastery**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
+### **Frontend Excellence**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-rharbi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mohammed-rharbi" /></p>
+### **Mobile Development**
+- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-rharbi&show_icons=true&theme=highcontrast&locale=en" alt="mohammed-rharbi" /></p>
+### **Testing & Quality**
+- ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ⭐ **Currently Learning**
+- ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-rharbi&theme=highcontrast" alt="mohammed-rharbi" /></p>
+### **DevOps & Tools**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🎯 Current Learning
+
+- 🎭 **End-to-End Testing** with Playwright
+- 📘 **Advanced TypeScript** patterns & best practices
+- 🧩 **Design Patterns** for scalable architectures
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-rharbi&show_icons=true&theme=radical&layout=compact&card_width=400)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-rharbi&show_icons=true&theme=radical&hide_rank=false)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-rharbi&theme=radical)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rharbi-785549278/?originalsubdomain=ma)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohammed_rharbi)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mohammedgharbi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rharbi383@gmail.com)
+
+</div>
+
+---
+
+## 🏆 Portfolio
+
+All my projects and open-source contributions are available on my **[GitHub](https://github.com/mohammed-rharbi)**.
+
+---
+
+<div align="center">
+
+**"Building scalable solutions, one line of code at a time."**
+
+⭐ If you find my work interesting, consider giving my repos a star!
+
+</div>
